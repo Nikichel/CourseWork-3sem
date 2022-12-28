@@ -1,0 +1,10 @@
+﻿  Source.cpp
+  employee.cpp
+  Создание кода...
+D:\2 курс\Курсач ПнаЯВУ\CourseWork\CourseWork\Queue.h(117): warning C4715: queue<employee>::Iterator::operator++: значение возвращается не при всех путях выполнения
+D:\2 курс\Курсач ПнаЯВУ\CourseWork\CourseWork\Queue.h(117): warning C4715: queue<driver>::Iterator::operator++: значение возвращается не при всех путях выполнения
+D:\2 курс\Курсач ПнаЯВУ\CourseWork\CourseWork\Queue.h(117): warning C4715: queue<car>::Iterator::operator++: значение возвращается не при всех путях выполнения
+D:\2 курс\Курсач ПнаЯВУ\CourseWork\CourseWork\Queue.h(117): warning C4715: queue<truck>::Iterator::operator++: значение возвращается не при всех путях выполнения
+D:\2 курс\Курсач ПнаЯВУ\CourseWork\CourseWork\Queue.h(117): warning C4715: queue<electrocar>::Iterator::operator++: значение возвращается не при всех путях выполнения
+D:\2 курс\Курсач ПнаЯВУ\CourseWork\CourseWork\Queue.h(117): warning C4715: queue<scooter>::Iterator::operator++: значение возвращается не при всех путях выполнения
+  CourseWork.vcxproj -> D:\2 курс\Курсач ПнаЯВУ\CourseWork\x64\Debug\CourseWork.exe
